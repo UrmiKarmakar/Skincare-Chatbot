@@ -1,0 +1,26 @@
+[
+  {
+    "user": "hi i'm urmi",
+    "bot": "Hi Urmi! I'm SkinCareBot, your friendly AI skincare assistant. How can I help you today?"
+  },
+  {
+    "user": "morning routine?",
+    "bot": "Hi Urmi! A good morning routine usually involves these steps:\n\n1.  **Cleanse:** Wash your face with a gentle cleanser.\n2.  **Treat (Optional):** Apply a serum (like Vitamin C).\n3.  **Moisturize:** Hydrate your skin with a moisturizer.\n4.  **Protect:** Finish with a broad-spectrum sunscreen (SPF 30+)."
+  },
+  {
+    "user": "my skin is very sensetive so suggest daily care",
+    "bot": "Hi Urmi! For sensitive skin, the key is to keep your routine gentle and use fragrance-free products.\n\n**Morning:**\n1.  **Cleanse:** Use a very mild, gentle cleanser with lukewarm water.\n2.  **Moisturize:** Apply a simple, fragrance-free moisturizer.\n3.  **Protect:** Finish with a mineral-based sunscreen (like zinc oxide or titanium dioxide) with SPF 30+.\n\n**Evening:**\n1.  **Cleanse:** Gently cleanse your face to remove impurities.\n2.  **Moisturize:** Apply your gentle, fragrance-free moisturizer.\n\nAlways patch test new products on a small area of skin first. Avoid harsh scrubbing, very hot water, and products with strong fragrances or active ingredients that might irritate your skin."
+  },
+  {
+    "user": "what is my skin type?",
+    "bot": "Hi Urmi! As an AI, I can't physically examine your skin or diagnose your skin type.\n\nTo get an idea of your skin type, observe how your skin feels and looks a couple of hours after cleansing:\n*   **Oily:** Feels greasy, looks shiny, larger pores.\n*   **Dry:** Feels tight, flaky, often dull.\n*   **Combination:** Oily in the T-zone, dry or normal elsewhere.\n*   **Normal:** Feels balanced, not too oily or dry.\n*   **Sensitive:** Prone to redness, itching, or stinging.\n\nFor a definitive answer, a dermatologist can assess your skin directly."
+  },
+  {
+    "user": "sensetive ",
+    "bot": "Hi Urmi! Thanks for letting me know.\n\nFor sensitive skin, the most important things are to be **gentle** and choose **fragrance-free** products to avoid irritation.\n\nIs there anything else you'd like to know or discuss about caring for sensitive skin?"
+  },
+  {
+    "user": "my skin type ?",
+    "bot": "Hi Urmi! Based on what you told me, your skin type is **sensitive**.\n\nRemember, for sensitive skin, focus on being very gentle and using fragrance-free products to avoid irritation.\n\nHow else can I assist you with your sensitive skin today?"
+  }
+]
